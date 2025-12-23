@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MitudruDutta&theme=ocean_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MitudruDutta&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MitudruDutta&theme=ocean_dark&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MitudruDutta&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
 
