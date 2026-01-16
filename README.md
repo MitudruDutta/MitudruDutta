@@ -33,13 +33,13 @@ Building production-grade AI/ML solutions that solve real-world problems. Specia
 - Built end-to-end ML pipeline for credit default prediction
 - **Tech**: Scikit-learn, XGBoost, Feature Engineering, Streamlit deployment
 - Impact: Predictive model with 89% AUC on unseen data
-- [GitHub Repository](https://github.com/MitudruDutta/CreditCard-Risk-Modelling)
+- [Website](https://creditxrisk.streamlit.app/))
 
 ### 🏥 **Healthcare Premium Prediction** | Regression ML
 - ML model for predicting insurance premium rates
 - **Tech**: Pandas, NumPy, Scikit-learn, Statistical modeling
 - Demonstrates feature engineering for healthcare domain
-- [View Project](https://github.com/MitudruDutta/Healthcare-Premium-Prediction)
+- [Website](https://predxhealth.streamlit.app/)
 
 ### 🤓 **LearnLock** | AI-Powered Learning Engine
 - Adversarial learning system using LLM as knowledge validator
@@ -62,7 +62,7 @@ Building production-grade AI/ML solutions that solve real-world problems. Specia
 - Damage assessment platform using computer vision and deep learning
 - **Tech**: TypeScript, PyTorch, CNN, Image Processing
 - Impact: 91% accuracy in damage detection
-- [GitHub Repository](https://github.com/MitudruDutta/damagex)
+- [Website](https://damagex.vercel.app/)
 
 ---
 
