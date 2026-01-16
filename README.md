@@ -60,7 +60,7 @@ Building production-grade AI/ML solutions that solve real-world problems. Specia
 
 ### 🔧 **DamageX** | Computer Vision & ML
 - Damage assessment platform using computer vision and deep learning
-- **Tech**: TypeScript, TensorFlow, CNN, Image Processing
+- **Tech**: TypeScript, PyTorch, CNN, Image Processing
 - Impact: 91% accuracy in damage detection
 - [GitHub Repository](https://github.com/MitudruDutta/damagex)
 
@@ -70,7 +70,7 @@ Building production-grade AI/ML solutions that solve real-world problems. Specia
 
 ```
 🐍 Languages: Python 3.9+, SQL, R (basic)
-🤖 AI/LLMs: OpenAI, LangChain, LangGraph, Claude API, Hugging Face
+🤖 AI/LLMs: OpenAI, LangChain, LangGraph, Hugging Face, Groq
 📊 ML Libraries: TensorFlow, PyTorch, Scikit-learn, XGBoost, Keras
 📈 Data: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly
 🗄️ Databases: PostgreSQL, MySQL, Redis, Supabase, Vector DBs (Pinecone, ChromaDB)
