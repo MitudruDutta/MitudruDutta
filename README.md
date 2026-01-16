@@ -33,7 +33,7 @@ Building production-grade AI/ML solutions that solve real-world problems. Specia
 - Built end-to-end ML pipeline for credit default prediction
 - **Tech**: Scikit-learn, XGBoost, Feature Engineering, Streamlit deployment
 - Impact: Predictive model with 89% AUC on unseen data
-- [Website](https://creditxrisk.streamlit.app/))
+- [Website](https://creditxrisk.streamlit.app/)
 
 ### 🏥 **Healthcare Premium Prediction** | Regression ML
 - ML model for predicting insurance premium rates
