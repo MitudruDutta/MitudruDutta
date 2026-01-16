@@ -47,16 +47,22 @@ Building production-grade AI/ML solutions that solve real-world problems. Specia
 - Validates understanding through contradiction detection & spaced repetition
 - [Try Live Demo](https://github.com/MitudruDutta/learnlock) | [PyPI Package](https://pypi.org/project/learnlock/)
 
-### 🧠 **Step Into Generative AI** | GenAI Curriculum
-- 50+ Jupyter notebooks covering GenAI fundamentals to production
-- **Topics**: LLMs, RAG, Vector DBs, Agents, Fine-tuning, MCP, Ethics
-- **Tech**: LangChain, ChromaDB, Hugging Face, FastMCP
-- [Structured Learning Path](https://github.com/MitudruDutta/step-into-GenAI)
-
 ### 🏘️ **Real Estate Sentiment Tracker** | NLP + Data Analytics
 - Sentiment analysis on real estate market trends
 - **Tech**: NLTK, Pandas, Web scraping, Visualization
 - [GitHub Repository](https://github.com/MitudruDutta/Real-Estate-Sentiment-Tracker)
+
+### 📄 **Paper** | ML Research Implementation
+- Research paper implementation project exploring machine learning algorithms
+- **Tech**: Python, Scikit-learn, NumPy, Data Processing Pipelines
+- Focus: Implementing theoretical concepts from academic papers
+- [GitHub Repository](https://github.com/MitudruDutta/paper)
+
+### 🔧 **DamageX** | Computer Vision & ML
+- Damage assessment platform using computer vision and deep learning
+- **Tech**: TypeScript, TensorFlow, CNN, Image Processing
+- Impact: 91% accuracy in damage detection
+- [GitHub Repository](https://github.com/MitudruDutta/damagex)
 
 ---
 
