@@ -1,18 +1,113 @@
-# 💫 About Me:
-🔭 I'm currently working on advanced Machine Learning and Data Science projects<br>👯 I'm looking to collaborate on innovative AI/ML solutions and data-driven applications<br>🤝 I'm looking for help with deploying production-grade ML models and building AI agents<br>🌱 I'm currently learning about Large Language Models, AI Agents, and Deep Learning<br>💬 Ask me about Data Science, Machine Learning, Python, and Building Intelligent Systems<br>⚡ Fun fact: I love building AI agents and exploring the intersection of NLP and predictive analytics
+# 🚀 AI Engineer | Machine Learning Engineer | Data Scientist
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mitudru.dutta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitudru-dutta-89974b28b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mitudruu) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=plastic&logo=sentry&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MitudruDutta&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MitudruDutta&theme=ocean_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MitudruDutta&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🎯 Mission
+Building production-grade AI/ML solutions that solve real-world problems. Specializing in **Generative AI**, **Large Language Models**, **Predictive Analytics**, and **Autonomous AI Agents**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MitudruDutta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Core Expertise
+
+### 🤖 AI & Machine Learning
+- **Generative AI & LLMs**: LangChain, LangGraph, Prompt Engineering, RAG Systems, Fine-tuning (LoRA, QLoRA)
+- **Agentic AI**: Multi-agent systems, Tool calling, Reasoning chains, Model Context Protocol (MCP)
+- **Deep Learning**: TensorFlow, PyTorch, Keras, Custom architectures
+- **Classical ML**: Scikit-learn, XGBoost, Random Forests, Ensemble methods
+
+### 📊 Data Science & Analytics
+- **Feature Engineering**: Statistical analysis, Dimensionality reduction, Feature selection
+- **Model Optimization**: Hyperparameter tuning, Cross-validation, SHAP analysis
+- **Time Series**: ARIMA, Prophet, LSTM for forecasting
+- **Data Pipeline**: ETL, Data warehousing, Big Data processing
+
+### 🔧 Production & Deployment
+- **API Development**: FastAPI, Flask, Django
+- **ML Operations**: MLflow tracking, Model versioning, A/B testing
+- **Cloud & DevOps**: Docker, GitHub Actions, CI/CD pipelines
+- **Databases**: PostgreSQL, MySQL, Redis, Supabase, Vector DBs
+
+---
+
+## 🌟 Pinned Projects
+
+### 📈 **Credit Card Risk Modelling** | ML Production System
+- Built end-to-end ML pipeline for credit default prediction
+- **Tech**: Scikit-learn, XGBoost, Feature Engineering, Streamlit deployment
+- Impact: Predictive model with 89% AUC on unseen data
+- [GitHub Repository](https://github.com/MitudruDutta/CreditCard-Risk-Modelling)
+
+### 🏥 **Healthcare Premium Prediction** | Regression ML
+- ML model for predicting insurance premium rates
+- **Tech**: Pandas, NumPy, Scikit-learn, Statistical modeling
+- Demonstrates feature engineering for healthcare domain
+- [View Project](https://github.com/MitudruDutta/Healthcare-Premium-Prediction)
+
+### 🤓 **LearnLock** | AI-Powered Learning Engine
+- Adversarial learning system using LLM as knowledge validator
+- **Tech**: LangChain, OpenAI API, Vector embeddings, FastAPI
+- Validates understanding through contradiction detection & spaced repetition
+- [Try Live Demo](https://github.com/MitudruDutta/learnlock) | [PyPI Package](https://pypi.org/project/learnlock/)
+
+### 🧠 **Step Into Generative AI** | GenAI Curriculum
+- 50+ Jupyter notebooks covering GenAI fundamentals to production
+- **Topics**: LLMs, RAG, Vector DBs, Agents, Fine-tuning, MCP, Ethics
+- **Tech**: LangChain, ChromaDB, Hugging Face, FastMCP
+- [Structured Learning Path](https://github.com/MitudruDutta/step-into-GenAI)
+
+### 🏘️ **Real Estate Sentiment Tracker** | NLP + Data Analytics
+- Sentiment analysis on real estate market trends
+- **Tech**: NLTK, Pandas, Web scraping, Visualization
+- [GitHub Repository](https://github.com/MitudruDutta/Real-Estate-Sentiment-Tracker)
+
+---
+
+## 📚 Tech Stack
+
+```
+🐍 Languages: Python 3.9+, SQL, R (basic)
+🤖 AI/LLMs: OpenAI, LangChain, LangGraph, Claude API, Hugging Face
+📊 ML Libraries: TensorFlow, PyTorch, Scikit-learn, XGBoost, Keras
+📈 Data: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly
+🗄️ Databases: PostgreSQL, MySQL, Redis, Supabase, Vector DBs (Pinecone, ChromaDB)
+⚙️ Production: FastAPI, Flask, Django, Streamlit, Docker
+☁️ DevOps: GitHub Actions, Git, MLflow, Hugging Face Hub
+```
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+
+---
+
+## 📈 Stats & Contributions
+
+- **532+ GitHub contributions** in 2024 | **Learning in public** approach
+- **50+ ML/AI projects** across data science, deep learning, and generative AI
+- **Open-source contributor** with published packages
+- **Hackathon builder** - Developed multiple AI solutions in competitive environments
+
+---
+
+## 🎯 Currently Exploring
+
+- 🚀 Advanced MLOps & production ML systems
+- 🧠 Multi-agent AI systems & reasoning frameworks  
+- 💰 Fine-tuning & quantization of large language models
+- 🔬 Causal inference & experimental design
+
+---
+
+## 🤝 Open For
+
+- **Collaborations** on cutting-edge ML/AI projects
+- **Data Science contracts** for complex analytics problems
+- **AI engineering roles** - Full-time or contract
+- **ML consulting** on model development & deployment
+- **Open-source contributions** in AI/ML domain
+
+---
+
+## 📱 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitudru-dutta-89974b28b) [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/Mitudruu) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MitudruDutta)
+
+---
+
+**"Code today, impact tomorrow."** 🚀
