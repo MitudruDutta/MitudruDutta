@@ -59,4 +59,4 @@
 ☁️ DevOps: GitHub Actions, Git, MLflow, Hugging Face Hub
 ```
 
-"Code today, impact tomorrow." 
+**Code today, impact tomorrow.**
