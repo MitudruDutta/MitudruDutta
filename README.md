@@ -22,8 +22,8 @@
 - 🏘️ **[Real Estate Sentiment Tracker](https://github.com/MitudruDutta/Real-Estate-Sentiment-Tracker)** – NLP and analytics for gauging real‑estate market sentiment.
 - 🧪 **[AgentFlow](https://github.com/MitudruDutta/AgentFlow)** – Experimental framework for orchestrating multi‑agent workflows and tool calling.
 - 🔧 **[DamageX](https://github.com/MitudruDutta/damagex)** – Computer vision platform for automated damage assessment with deep learning.
-- 📡 **[Hybrid Telecom Agent](https://github.com/MitudruDutta/Hybrid_Telecom_Agent)** – Production‑ready AI agent for telecom customer service that smartly routes queries between a vector‑search FAQ and SQL analytics:contentReference[oaicite:0]{index=0}.
-- 📄 **[Paper](https://github.com/MitudruDutta/paper)** – Multimodal document intelligence system that turns PDFs into verifiable answers with page‑level citations:contentReference[oaicite:1]{index=1}.
+- 📡 **[Hybrid Telecom Agent](https://github.com/MitudruDutta/Hybrid_Telecom_Agent)** – Production‑ready AI agent for telecom customer service that smartly routes queries between a vector‑search FAQ and SQL analytics.
+- 📄 **[Paper](https://github.com/MitudruDutta/paper)** – Multimodal document intelligence system that turns PDFs into verifiable answers with page‑level citations.
 
 ## GitHub Activity
 
