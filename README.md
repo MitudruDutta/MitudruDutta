@@ -8,6 +8,8 @@
 ![Scikit‑learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=white)
+
 
 > Building production‑grade AI/ML solutions that solve real‑world problems. Specializing in **Generative AI**, **Large Language Models**, **Predictive Analytics**, and **Autonomous AI agents**.
 
@@ -20,6 +22,8 @@
 - 🏘️ **[Real Estate Sentiment Tracker](https://github.com/MitudruDutta/Real-Estate-Sentiment-Tracker)** – NLP and analytics for gauging real‑estate market sentiment.
 - 🧪 **[AgentFlow](https://github.com/MitudruDutta/AgentFlow)** – Experimental framework for orchestrating multi‑agent workflows and tool calling.
 - 🔧 **[DamageX](https://github.com/MitudruDutta/damagex)** – Computer vision platform for automated damage assessment with deep learning.
+- 📡 **[Hybrid Telecom Agent](https://github.com/MitudruDutta/Hybrid_Telecom_Agent)** – Production‑ready AI agent for telecom customer service that smartly routes queries between a vector‑search FAQ and SQL analytics:contentReference[oaicite:0]{index=0}.
+- 📄 **[Paper](https://github.com/MitudruDutta/paper)** – Multimodal document intelligence system that turns PDFs into verifiable answers with page‑level citations:contentReference[oaicite:1]{index=1}.
 
 ## GitHub Activity
 
