@@ -1,6 +1,6 @@
 # Hi, I'm Mitudru 👋
 
-**Kolkata, West Bengal, India** | **AI Engineer & ML Enthusiast** | **Building AI‑powered solutions**
+📍 **Kolkata, West Bengal, India** | 🤖 **AI Engineer & ML Enthusiast** | 🚀 **Building AI‑powered solutions**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
