@@ -15,7 +15,7 @@
 
 ## Current Projects
 
-- 🧠 **[LearnLock](https://github.com/MitudruDutta/learnlock)** – AI‑powered learning engine using LangChain, vector embeddings and contradiction detection for spaced repetition.
+- 🧠 **[LearnLock](https://github.com/MitudruDutta/learnlock)** – AI‑powered learning engine using the Socratic Method and Adversarial philosophy approach.
 - 💊 **[MediRep AI](https://github.com/MitudruDutta/MediRep-AI)** – AI‑powered medical intelligence platform unifying drug information, interaction analysis, pill identification and pharmacist consultations.
 - 💳 **[Credit Card Risk Modelling](https://github.com/MitudruDutta/CreditCard-Risk-Modelling)** – End‑to‑end ML pipeline for credit default prediction with Streamlit deployment.
 - 🏥 **[Healthcare Premium Prediction](https://github.com/MitudruDutta/Healthcare-Premium-Prediction)** – Regression models for predicting insurance premium rates.
@@ -48,17 +48,17 @@
 
 - **Generative AI & LLMs** – LangChain, LangGraph, prompt engineering, retrieval‑augmented generation, fine‑tuning (LoRA/QLoRA)
 - **Agentic AI** – Multi‑agent systems, tool calling, reasoning chains, Model Context Protocol (MCP)
-- **Deep Learning** – TensorFlow, PyTorch, Keras, custom architectures
+- **Deep Learning** – TensorFlow, PyTorch, Keras, Transfer Learning
 - **Classical ML** – Scikit‑learn, XGBoost, random forests, ensemble methods
 
 ### Tech Stack
 
 ```text
-🐍 Languages: Python 3.9+, SQL, R (basic)
+🐍 Languages: Python 3.10+, SQL, R (basic), Go(Basic)
 🤖 AI/LLMs: OpenAI, LangChain, LangGraph, Hugging Face, Groq
 📊 ML Libraries: TensorFlow, PyTorch, Scikit‑learn, XGBoost, Keras
 📈 Data: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly
-🗄️ Databases: PostgreSQL, MySQL, Redis, Supabase, Vector DBs (Pinecone, ChromaDB)
+🗄️ Databases: PostgreSQL, MySQL, Redis, Supabase, Vector DBs (Qdrant, ChromaDB)
 ⚙️ Production: FastAPI, Flask, Django, Streamlit, Docker
 ☁️ DevOps: GitHub Actions, Git, MLflow, Hugging Face Hub
 ```
