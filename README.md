@@ -52,9 +52,6 @@ Cloud / Ops  : AWS Bedrock, GitHub Actions, Git, Hugging Face Hub, Vercel
 
 ## 📈 GitHub Activity
 
-![Mitudru's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitudruDutta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MitudruDutta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ![GitHub Contribution Graph](https://ghchart.rshah.org/MitudruDutta)
 
 ---
